@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @fauzanebd
-- 👀 I’m interested in mobile app development and machine learning
-- 🌱 I’m currently learning kotlin languange and android development
-- 💞️ I’m looking to collaborate on mobile app development
-- 📫 You can contact me on fauzanebd@gmail.com
+hi im fauzan, im developing software using python
 
 [![Fauzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauzanebd&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanebd&hide=QML,html,cython&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
